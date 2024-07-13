@@ -189,40 +189,6 @@ nav button {
   opacity: 0.7;
 }
 
-.item-2 {
-  text-align: right;
-  width: 477px;
-  height: 140px;
-}
-
-.item-2 h1 {
-  color: rgba(13, 19, 33, 0.7);
-  font-family: Azeret Mono;
-  font-size: 24px;
-  font-weight: 700;
-  line-height: 36px;
-  text-align: left;
-  margin-bottom: 15px;
-  margin-top: 10px;
-}
-
-.item-2 P {
-  color: rgb(13, 19, 33);
-  font-family: Azeret Mono;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 26px;
-  text-align: left;
-  margin-bottom: 32px;
-}
-
-.item-2 button {
-  padding: 12px 12px 12px 16px;
-  border: 1px solid rgb(13, 19, 33);
-  opacity: 0.7;
-  margin-right: 359px;
-  cursor: pointer;
-}
 
 /* why dev section end */
 
