@@ -132,6 +132,7 @@
   text-align: left;
   margin-top: 10px;
   line-height: 22px;
+  width: 222px;
 }
 
 
@@ -155,6 +156,7 @@
   width: 100%;
   margin: 0 auto;
   margin-bottom: 35px;
+  margin-top: 20px;
 }
 
 .inspir-content p {
